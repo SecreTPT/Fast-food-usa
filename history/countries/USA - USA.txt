@@ -233,9 +233,9 @@ set_autonomy = {
 }
 
 create_country_leader = {
-	name = "Franklin Delano Roosevelt"
-	desc = "POLITICS_FRANKLIN_DELANO_ROOSEVELT_DESC"
-	picture = "Portrait_USA_Franklin_Roosevelt.dds"
+	name = "McDonald's"
+	desc = ""
+	picture = "Portrait_McDonalds.dds"
 	expire = "1947.1.1"
 	ideology = liberalism
 	traits = {
@@ -244,10 +244,21 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "William Dudley Pelley"
-	desc = "POLITICS_WILLIAM_DUDLEY_PELLEY_DESC"
-	picture = "Portrait_USA_William_Dudley_Pelley.dds"
-	expire = "1965.1.1"
+	name = "McDonald's"
+	desc = ""
+	picture = "Portrait_McDonalds.dds"
+	expire = "1947.1.1"
+	ideology = oligarchism
+	traits = {
+		
+	}
+}
+
+create_country_leader = {
+	name = "McDonald's"
+	desc = ""
+	picture = "Portrait_McDonalds.dds"
+	expire = "1947.1.1"
 	ideology = fascism_ideology
 	traits = {
 		
@@ -255,9 +266,9 @@ create_country_leader = {
 }
 
 create_country_leader = {
-	name = "Earl Browder"
-	desc = "POLITICS_EARL_BROWDER_DESC"
-	picture = "Portrait_USA_Generic_1.dds"
+	name = "Food not found"
+	desc = ""
+	picture = "Portrait_NotFound.dds"
 	expire = "1965.1.1"
 	ideology = marxism
 	traits = {
